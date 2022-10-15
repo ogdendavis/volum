@@ -31,11 +31,11 @@
     border-radius: var(--border-radius);
     box-shadow: none;
     color: var(--color-white-bright);
-    font-family: var(--default-font);
+    font-family: var(--font-default);
     font-size: 1.25rem;
     font-weight: 600;
     padding: 0.5rem 1rem;
-    transition: var(--transition);
+    transition: var(--transition-all);
   }
 
   button:hover {
