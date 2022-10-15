@@ -1,6 +1,11 @@
 <style>
+  .siteHeader {
+    text-align: center;
+  }
+
   .siteHeader a {
-    color: darkorange;
+    color: var(--color-gray-dark);
+    display: inline-block;
     text-decoration: none;
   }
 
@@ -11,7 +16,7 @@
 
 <header class="siteHeader">
   <a href="/">
-    <h1>Volum</h1>
+    <h1>volum</h1>
   </a>
 </header>
 <div class="slotContainer">
